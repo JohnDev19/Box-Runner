@@ -2,7 +2,8 @@
 
 Box Runner is a fun, browser-based endless runner game built with HTML, CSS, and JavaScript. Players control a box that must jump over obstacles, collect power-ups and survive as long as possible in a changing environment.
 
-![Output]()
+![Desktop](outputdesktop.jpg)
+![Mobile](outputmobile.jpg)
 
 ## Features
 
